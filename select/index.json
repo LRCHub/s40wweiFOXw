@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ディストーションと抱擁",
+  "base_artist": "不破湊",
+  "createdAt": "2026-03-01T07:31:08.334372Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディストーションと抱擁",
+      "artist": "不破湊",
+      "has_synced": false,
+      "path": "select/pl_01_ディストーションと抱擁_不破湊.txt"
+    }
+  ]
+}
